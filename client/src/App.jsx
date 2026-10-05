@@ -4,7 +4,7 @@ import { Route, Routes, useLocation } from "react-router-dom";
 import Home from "./pages/Home";
 import Movies from "./pages/Movies";
 import MovieDetails from "./pages/MovieDetails";
-import SeatLayout from "./pages/seatLayout";
+import SeatLayout from "./pages/eatLayout";
 import MyBookings from "./pages/MyBookings";
 import Favorite from "./pages/Favorite";
 import { Toaster } from 'react-hot-toast'
